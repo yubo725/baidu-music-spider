@@ -3,7 +3,7 @@
 
 # 截图
 ## 爬取的数据存放在数据库中
-![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/data.png)
+![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/records.png)
 ## 一共5397条数据
 ![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/count.png)
 
