@@ -3,9 +3,9 @@
 
 # 截图
 ## 爬取的数据存放在数据库中
-![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/data.jpg)
+![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/data.png)
 ## 一共5397条数据
-![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/count.jpg)
+![image](https://github.com/yubo725/python-baidu-music-spider/blob/master/screenshots/count.png)
 
 # 说明
 目前只爬取了歌手姓名、头像、详情页url等数据
